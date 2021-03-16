@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}实验目的}{2}%
+\contentsline {section}{\numberline {2}实验元器件}{2}%
+\contentsline {section}{\numberline {3}实验原理}{2}%
+\contentsline {section}{\numberline {4}实验内容}{2}%
+\contentsline {section}{\numberline {5}实验数据与波形}{2}%
+\contentsline {section}{\numberline {6}实验结论}{2}%
+\contentsline {section}{\numberline {7}误差分析}{2}%
+\contentsline {section}{\numberline {8}小结}{2}%

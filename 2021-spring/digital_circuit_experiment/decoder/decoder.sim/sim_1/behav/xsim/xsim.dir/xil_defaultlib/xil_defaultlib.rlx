@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/C_decoder_sim.v,1615882267,verilog,,,,C_decoder_sim,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/G_decoder_sim.v,1615880493,verilog,,,,G_decoder_sim,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/decoder_simulation.v,1615303080,verilog,,,,decoder_simulation,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sources_1/new/C_decoder_3_8.v,1615882133,verilog,,E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/C_decoder_sim.v,,C_decoder_3_8,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sources_1/new/G_decoder_3_8.v,1615881163,verilog,,E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/G_decoder_sim.v,,G_decoder_2_4;G_decoder_3_8,,,,,,,,
+E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sources_1/new/decoder.v,1615204713,verilog,,E:/ProgrammingFiles/vivado/decoder/decoder.srcs/sim_1/new/decoder_simulation.v,,decoder_3_8,,,,,,,,

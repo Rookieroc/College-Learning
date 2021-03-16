@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 16 15:45:46 2021
+# Process ID: 12504
+# Current directory: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/xsim.dir/G_decoder_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/xsim.dir/G_decoder_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:12 . Memory (MB): peak = 99.602 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Tue Mar 16 15:45:59 2021...

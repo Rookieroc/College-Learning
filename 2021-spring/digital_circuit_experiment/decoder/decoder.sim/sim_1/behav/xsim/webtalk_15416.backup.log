@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 16 15:43:04 2021
+# Process ID: 15416
+# Current directory: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/xsim.dir/G_decoder_3_8_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/xsim.dir/G_decoder_3_8_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'E:/ProgrammingFiles/vivado/decoder/decoder.sim/sim_1/behav/xsim/xsim.dir/G_decoder_3_8_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Tue Mar 16 15:43:17 2021. For additional details about this file, please refer to the WebTalk help file at D:/developer/vivado/Vivado/2020.2/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:13 . Memory (MB): peak = 116.484 ; gain = 17.602
+INFO: [Common 17-206] Exiting Webtalk at Tue Mar 16 15:43:17 2021...
